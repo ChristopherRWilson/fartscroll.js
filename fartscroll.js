@@ -102,3 +102,5 @@ var fartscroll = (function () {
     return container;
   }
 })();
+
+fartscroll(500);
